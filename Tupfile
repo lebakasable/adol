@@ -1,0 +1,1 @@
+: adol.adb |> gnatmake -gnatwa -o %o %f -D /tmp |> adol
